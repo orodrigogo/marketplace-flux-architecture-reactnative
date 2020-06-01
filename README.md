@@ -9,4 +9,6 @@ Utilize ESLint, Prettier, EditorConfig, React Navigation e todas outras ferramen
 
 ### Resultado:
 
-<img src=".github/demo.gif" height="400">
+<p align="center">
+  <img src=".github/demo.gif" height="400">
+</p>

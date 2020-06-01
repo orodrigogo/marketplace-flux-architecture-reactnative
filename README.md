@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-  Aplicativo React Native, com Hooks e Arquitetura Flux
+  Aplicativo React Native. Marketplace com Hooks e Arquitetura Flux
 </h3>
 
 ### Um pouco sobre as ferramentas utilizadas
